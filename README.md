@@ -1,1 +1,1 @@
-# SSW345  coursework
+SSW345  course assignments
