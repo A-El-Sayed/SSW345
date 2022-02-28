@@ -1,6 +1,6 @@
 ## REST Assignment.
 this assigment is for hw3. I had to change a couple of stuff from the test file in order to solve the assignment. i also had trouble working on the server part because i didn't know i had to have two terminals open at the same time.
-- link to the server part of the assignment is https://stevens.zoom.us/rec/play/215XKY5n-ZGCVVSobVMAezl8diNRK8aGvfI1APn34zsnpmMjT8JqF-PLPdO_aIDbFScBFZ2wTTImjI8y.YsQcsp95MuHMoJDv?autoplay=true&startTime=1646016079000
+- link to recording of the server part of the assignment is https://stevens.zoom.us/rec/play/215XKY5n-ZGCVVSobVMAezl8diNRK8aGvfI1APn34zsnpmMjT8JqF-PLPdO_aIDbFScBFZ2wTTImjI8y.YsQcsp95MuHMoJDv?autoplay=true&startTime=1646016079000
 # Introduction
 
 A *RESTful architecture*, is an architectural style ([Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)) for providing resources to clients using a set of request verbs and resource locations. A REST API allows a client to access resources provided by a service.
